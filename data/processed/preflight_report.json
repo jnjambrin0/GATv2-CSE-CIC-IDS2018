@@ -1,0 +1,512 @@
+{
+  "files": {
+    "Friday-02-03-2018": {
+      "rows_read": 6311371,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-03-02T12:46:22.317145",
+      "timestamp_max": "2018-03-03T00:39:53.894472",
+      "attack_rate": 0.022645000587035686,
+      "attacks": 142921,
+      "total_after_filters": 6311371,
+      "attempted_non_minus1": 262,
+      "labels_top10": [
+        [
+          "BENIGN",
+          6168188
+        ],
+        [
+          "Botnet Ares",
+          142921
+        ],
+        [
+          "Botnet Ares - Attempted",
+          262
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          6311109
+        ],
+        [
+          0,
+          258
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+    "Friday-16-02-2018": {
+      "rows_read": 7390266,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-16T12:26:55.181877",
+      "timestamp_max": "2018-02-16T22:15:24.854148",
+      "attack_rate": 0.2439912176368212,
+      "attacks": 1803160,
+      "total_after_filters": 7390266,
+      "attempted_non_minus1": 105606,
+      "labels_top10": [
+        [
+          "BENIGN",
+          5481500
+        ],
+        [
+          "DoS Hulk",
+          1803160
+        ],
+        [
+          "FTP-BruteForce - Attempted",
+          105520
+        ],
+        [
+          "DoS Hulk - Attempted",
+          86
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          7284660
+        ],
+        [
+          1,
+          105520
+        ],
+        [
+          0,
+          86
+        ]
+      ]
+    },
+    "Friday-23-02-2018": {
+      "rows_read": 5976481,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-21T12:33:55.396864",
+      "timestamp_max": "2018-02-23T23:46:49.183594",
+      "attack_rate": 2.643696181749762e-05,
+      "attacks": 158,
+      "total_after_filters": 5976481,
+      "attempted_non_minus1": 72,
+      "labels_top10": [
+        [
+          "BENIGN",
+          5976251
+        ],
+        [
+          "Web Attack - XSS",
+          73
+        ],
+        [
+          "Web Attack - Brute Force",
+          62
+        ],
+        [
+          "Web Attack - Brute Force - Attempted",
+          61
+        ],
+        [
+          "Web Attack - SQL",
+          23
+        ],
+        [
+          "Web Attack - SQL - Attempted",
+          10
+        ],
+        [
+          "Web Attack - XSS - Attempted",
+          1
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          5976409
+        ],
+        [
+          5,
+          60
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          2,
+          6
+        ]
+      ],
+      "date_counts": {
+        "2018-02-21": 1216,
+        "2018-02-22": 1393,
+        "2018-02-23": 5973872
+      }
+    },
+    "Thursday-01-03-2018": {
+      "rows_read": 6551401,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-03-01T12:15:28.926174",
+      "timestamp_max": "2018-03-01T23:40:14.412141",
+      "attack_rate": 0.0060802261989458435,
+      "attacks": 39834,
+      "total_after_filters": 6551401,
+      "attempted_non_minus1": 13,
+      "labels_top10": [
+        [
+          "BENIGN",
+          6511554
+        ],
+        [
+          "Infiltration - NMAP Portscan",
+          39634
+        ],
+        [
+          "Infiltration - Communication Victim Attacker",
+          161
+        ],
+        [
+          "Infiltration - Dropbox Download",
+          39
+        ],
+        [
+          "Infiltration - Dropbox Download - Attempted",
+          13
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          6551388
+        ],
+        [
+          4,
+          13
+        ]
+      ]
+    },
+    "Thursday-15-02-2018": {
+      "rows_read": 5410102,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-15T12:23:15.264383",
+      "timestamp_max": "2018-02-16T01:14:55.132078",
+      "attack_rate": 0.0057392633262737,
+      "attacks": 31050,
+      "total_after_filters": 5410102,
+      "attempted_non_minus1": 6581,
+      "labels_top10": [
+        [
+          "BENIGN",
+          5372471
+        ],
+        [
+          "DoS GoldenEye",
+          22560
+        ],
+        [
+          "DoS Slowloris",
+          8490
+        ],
+        [
+          "DoS GoldenEye - Attempted",
+          4301
+        ],
+        [
+          "DoS Slowloris - Attempted",
+          2280
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          5403521
+        ],
+        [
+          4,
+          4248
+        ],
+        [
+          0,
+          2280
+        ],
+        [
+          6,
+          53
+        ]
+      ]
+    },
+    "Thursday-22-02-2018": {
+      "rows_read": 6071153,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-22T12:22:02.060675",
+      "timestamp_max": "2018-02-23T00:36:53.959518",
+      "attack_rate": 2.058916980020105e-05,
+      "attacks": 125,
+      "total_after_filters": 6071153,
+      "attempted_non_minus1": 83,
+      "labels_top10": [
+        [
+          "BENIGN",
+          6070945
+        ],
+        [
+          "Web Attack - Brute Force - Attempted",
+          76
+        ],
+        [
+          "Web Attack - Brute Force",
+          69
+        ],
+        [
+          "Web Attack - XSS",
+          40
+        ],
+        [
+          "Web Attack - SQL",
+          16
+        ],
+        [
+          "Web Attack - SQL - Attempted",
+          4
+        ],
+        [
+          "Web Attack - XSS - Attempted",
+          3
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          6071070
+        ],
+        [
+          5,
+          66
+        ],
+        [
+          2,
+          12
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "Tuesday-20-02-2018": {
+      "rows_read": 6054702,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-20T12:28:03.804789",
+      "timestamp_max": "2018-02-21T00:37:22.354975",
+      "attack_rate": 0.04791730460062279,
+      "attacks": 290125,
+      "total_after_filters": 6054702,
+      "attempted_non_minus1": 80,
+      "labels_top10": [
+        [
+          "BENIGN",
+          5764497
+        ],
+        [
+          "DDoS-LOIC-HTTP",
+          289328
+        ],
+        [
+          "DDoS-LOIC-UDP",
+          797
+        ],
+        [
+          "DDoS-LOIC-UDP - Attempted",
+          80
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          6054622
+        ],
+        [
+          6,
+          80
+        ]
+      ]
+    },
+    "Wednesday-14-02-2018": {
+      "rows_read": 5898350,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-14T12:28:07.743746",
+      "timestamp_max": "2018-02-15T00:47:34.715559",
+      "attack_rate": 0.01597005942339807,
+      "attacks": 94197,
+      "total_after_filters": 5898350,
+      "attempted_non_minus1": 193354,
+      "labels_top10": [
+        [
+          "BENIGN",
+          5610799
+        ],
+        [
+          "FTP-BruteForce - Attempted",
+          193354
+        ],
+        [
+          "SSH-BruteForce",
+          94197
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          5704996
+        ],
+        [
+          1,
+          193324
+        ],
+        [
+          4,
+          30
+        ]
+      ]
+    },
+    "Wednesday-21-02-2018": {
+      "rows_read": 6962593,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-21T12:28:18.495098",
+      "timestamp_max": "2018-02-22T00:36:49.117402",
+      "attack_rate": 0.15569242665771216,
+      "attacks": 1084023,
+      "total_after_filters": 6962593,
+      "attempted_non_minus1": 171,
+      "labels_top10": [
+        [
+          "BENIGN",
+          5878399
+        ],
+        [
+          "DDoS-HOIC",
+          1082293
+        ],
+        [
+          "DDoS-LOIC-UDP",
+          1730
+        ],
+        [
+          "DDoS-LOIC-UDP - Attempted",
+          171
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          6962422
+        ],
+        [
+          6,
+          171
+        ]
+      ]
+    },
+    "Wednesday-28-02-2018": {
+      "rows_read": 6568726,
+      "columns_count": 91,
+      "has_flow_id": true,
+      "has_attempted_category": true,
+      "timestamp_min": "2018-02-28T12:20:49.532235",
+      "timestamp_max": "2018-03-01T01:05:48.618359",
+      "attack_rate": 0.00758579365313761,
+      "attacks": 49829,
+      "total_after_filters": 6568726,
+      "attempted_non_minus1": 15,
+      "labels_top10": [
+        [
+          "BENIGN",
+          6518882
+        ],
+        [
+          "Infiltration - NMAP Portscan",
+          49740
+        ],
+        [
+          "Infiltration - Dropbox Download",
+          46
+        ],
+        [
+          "Infiltration - Communication Victim Attacker",
+          43
+        ],
+        [
+          "Infiltration - Dropbox Download - Attempted",
+          15
+        ]
+      ],
+      "attempted_category_top10": [
+        [
+          -1,
+          6568711
+        ],
+        [
+          4,
+          15
+        ]
+      ]
+    }
+  },
+  "window_stats": {
+    "Friday-16-02-2018": {
+      "windows": 587,
+      "min": 1.0,
+      "max": 154393.0,
+      "mean": 12589.890971039182,
+      "p50": 10164.0,
+      "p90": 13215.4,
+      "p95": 14554.499999999998,
+      "p99": 150332.65999999997
+    },
+    "Friday-02-03-2018": {
+      "windows": 714,
+      "min": 3.0,
+      "max": 24155.0,
+      "mean": 8839.455182072828,
+      "p50": 11038.5,
+      "p90": 14039.700000000003,
+      "p95": 15076.800000000001,
+      "p99": 18654.88
+    }
+  },
+  "overall": {
+    "attacks": 3535422,
+    "total_after_filters": 63195145,
+    "attack_rate": 0.05594451915570413,
+    "attempted_non_minus1": 306237
+  },
+  "config": {
+    "attempted_policy": "relabel_benign",
+    "window_size_seconds": 60,
+    "timestamp_dayfirst": true,
+    "timestamp_format": null,
+    "drop_rows_with_bad_timestamp": true
+  }
+}
